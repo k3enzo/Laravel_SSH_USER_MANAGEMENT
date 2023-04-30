@@ -1,0 +1,5 @@
+// This Command SEt Expire Life Time User Account
+
+
+
+# chage -E {date in Geog } {username}

@@ -1,0 +1,4 @@
+// this terminal show All Users Created in Server Os
+
+
+# cat /etc/passwd

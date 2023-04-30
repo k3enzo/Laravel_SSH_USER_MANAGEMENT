@@ -1,0 +1,4 @@
+// This terminal Command Ban a User Account For Always and Cant Connect again With this Information
+
+
+# usermod -L {username}

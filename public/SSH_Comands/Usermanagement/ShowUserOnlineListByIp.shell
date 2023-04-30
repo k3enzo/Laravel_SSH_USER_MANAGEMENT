@@ -1,0 +1,4 @@
+// this terminal command show All Online In Connection Server Users in Detail [ Username / ip / Connect mode / dir path ]
+
+
+# lsof -i -n -P | grep :56777 | grep ESTABLISHED | grep -v " root " | sort -r -k 3

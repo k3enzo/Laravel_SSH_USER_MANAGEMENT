@@ -1,0 +1,16 @@
+// This run In Linux Terminal For Create User in Input Variable Username and /bin/fake Default User Data Dir
+
+# adduser {username} --shell=/bin/fake
+
+
+
+
+// Set Password For LAst User Created . Next Run this U Must accept Password And Repassword In Input Teminal
+
+# passwd {username}
+
+// Input Variable From User Terminal
+
+# += password
+# += password repeat
+

@@ -1,0 +1,5 @@
+// this terminal command is for Deny Connected User * user can Connect Again to Server
+// ( this is Like A Relogin For user )
+
+
+# pkill -KILL -u {username}

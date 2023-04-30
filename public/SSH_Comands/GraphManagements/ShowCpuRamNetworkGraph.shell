@@ -1,0 +1,4 @@
+// this terminal command show All Hardware Usage In Tiem
+
+
+# mpstat -P ALL
