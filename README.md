@@ -31,7 +31,6 @@ To get the Pro version, contact us through one of the following Social Accounts
 
 - **<img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icons-png-vector-icons-and-png-backgrounds-18.png" alt="" width="30" height="30" style="max-width: 100%;">  [magicdeveloper2@gmail.com]((mailto:magicdeveloper2@gmail.com?subject=[GitHub]SSh%20User%20Management%20System))**
 - **<img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt="" width="30" height="30" style="max-width: 100%;">[ @magicdeveloper2](https://t.me/magicdeveloper2/)**
-- **<img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-icon-png-image_6315990.png" alt="" width="30" height="30" style="max-width: 100%;"> [+989016122720](https://whatsapp.com/)**
 
 <div dir="rtl" style="font-size: 13px;font-family: 'b titr','b baran','sanseris','tahoma','arial'">
 این ورژن بصورت کاملا رایگان عرضه میشود و همینطوری تمامی قسمت های موجود در این نسخه بدون هیچ محدودیتی در دستان شما قرار میگیرد ,در صورت بروز مشکل در اجرای سیستم و نیاز به نصب توسط ما از طریق درگاه های بالا با ما در ارتباط باشید
