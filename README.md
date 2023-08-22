@@ -60,6 +60,10 @@ _______________
 <br>
 <br>
 - نکته : برای اجرای سیستم اگر بر روی سیستم شخصی شما میباشد میبایست یکی از نرم افزار های Xampp یا Wampp رو نصب داشته باشید که بتونید سورس رو بر روی  Apache یا همون ویرشوال سرور اجرا کنید .
+
+اگر با نصب سورس های php و فریم وورک Laravel آشنا نیستید میتوانید از طریق این آموزشی خیلی راحت راه اندازی رو انجام بدید 
+https://kinsta.com/knowledgebase/install-laravel/
+ آدرس فوق برای راه اندازی php و Laravel میباشد
 </div>
 
 
@@ -74,7 +78,11 @@ ___Installation Commands___
 # composer dump-autoload
 # php Artisan migrate:fresh --seed
 # php Artisan key:generate
+
+# php artisan serve 
 ```
+بعد از اجرای کد بالا داخل مرورگر خود آدرس localhost:8000 رو وارد کنید . 
+
 
 ## ㅤ
 
