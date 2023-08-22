@@ -1,9 +1,5 @@
 
-<p align="center">
-<img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400">
-<br>
-<img src="https://anupamm.com/storage/2020/03/linubash.png" width="150" height="80">
-</p>
+
 
 <p align="center">
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
@@ -63,7 +59,7 @@ _______________
 این سیستم بطور مستقل و از طریق اتصال پورت دستورات خود را اجرا میکند و نیازی به نصب یا اجرای این سورس بر روی سرور خود ندارد به همین خاطر مشکلی برای امنیت سرور شما ایجاد نمی گردد و سرور بصورت کاملا مستقل به کار خود ادامه میدهد
 <br>
 <br>
-- نکته : برای اجرا و استفاده از این سیستم هیچ نیازی به نصب یا راه اندازی هیچ سرویس اضافه ای در سرور یا هاست شما ندارد.
+- نکته : برای اجرای سیستم اگر بر روی سیستم شخصی شما میباشد میبایست یکی از نرم افزار های Xampp یا Wampp رو نصب داشته باشید که بتونید سورس رو بر روی  Apache یا همون ویرشوال سرور اجرا کنید .
 </div>
 
 
